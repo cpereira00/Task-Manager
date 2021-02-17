@@ -1,6 +1,6 @@
 # Task Manager
 
-TaskManager is a web application that allows users to create, delete and set reminders for themselves on upcoming their tasks all while being stored through JSON server.
+TaskManager is a web application that allows users to create, delete and set reminders for themselves on their upcoming tasks all while being stored through JSON server.
 
 ## Available Scripts
 
