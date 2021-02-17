@@ -1,6 +1,6 @@
 # Task Manager
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+TaskManager is a web application that allows users to create, delete and set reminders for themselves on upcoming their tasks all while being stored through JSON server.
 
 ## Available Scripts
 
